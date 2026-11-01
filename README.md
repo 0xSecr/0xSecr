@@ -23,5 +23,3 @@
     <img alt="github snake" src="https://raw.githubusercontent.com/0xSecr/0xSecr/output/github-contribution-grid-snake.svg" width="400">
   </picture>
 </p>
-
----
