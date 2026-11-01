@@ -23,3 +23,14 @@
     <img alt="github snake" src="https://raw.githubusercontent.com/0xSecr/0xSecr/output/github-contribution-grid-snake.svg" width="400">
   </picture>
 </p>
+
+---
+
+<p align="center">
+  <a href="https://tonviewer.com/UQBwkX2aasBwf_VP2-IgptYOWs0Hzw9n1oFeyEW4mbRQabb4">
+    <img src="https://img.shields.io/badge/Donate-USDT_(TON)-000000?style=flat-square&logo=tether&logoColor=00FF41&labelColor=000000" alt="Donate USDT">
+  </a>
+  <a href="https://tonviewer.com/UQBwkX2aasBwf_VP2-IgptYOWs0Hzw9n1oFeyEW4mbRQabb4">
+    <img src="https://img.shields.io/badge/Donate-GRAM-000000?style=flat-square&logo=ton&logoColor=00FF41&labelColor=000000" alt="Donate GRAM">
+  </a>
+</p>
