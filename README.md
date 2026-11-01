@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/1vW.gif" width="100%" alt="Cyber Banner">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" alt="Matrix Banner">
 </div>
 
 <h1 align="center">Hi! I'm 0xSecr 👋</h1>
@@ -12,25 +12,17 @@
 
 ### 📊 Activity Telemetry
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=0xSecr&theme=tokyonight&show_icons=true&hide_border=true&title_color=00FF41" alt="GitHub Stats" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSecr&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_РЕАЛЬНЫЙ_ЛОГИН&theme=tokyonight&show_icons=true&hide_border=true&title_color=00FF41" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_РЕАЛЬНЫЙ_ЛОГИН&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41" alt="Top Languages" />
+</p>
 
 ### 🐍 Contribution Grid
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xSecr/0xSecr/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xSecr/0xSecr/output/github-contribution-grid-snake.svg">
-    <img alt="github snake" src="https://raw.githubusercontent.com/0xSecr/0xSecr/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ТВОЙ_РЕАЛЬНЫЙ_ЛОГИН/ТВОЙ_РЕАЛЬНЫЙ_ЛОГИН/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ТВОЙ_РЕАЛЬНЫЙ_ЛОГИН/ТВОЙ_РЕАЛЬНЫЙ_ЛОГИН/output/github-contribution-grid-snake.svg">
+    <img alt="github snake" src="https://raw.githubusercontent.com/ТВОЙ_РЕАЛЬНЫЙ_ЛОГИН/ТВОЙ_РЕАЛЬНЫЙ_ЛОГИН/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
