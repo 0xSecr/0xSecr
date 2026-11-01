@@ -4,18 +4,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/os-arch_linux-000000?style=flat-square&logo=arch-linux&logoColor=00FF41&labelColor=000000" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/os-endeavouros-000000?style=flat-square&logo=endeavouros&logoColor=00FF41&labelColor=000000" alt="EndeavourOS">
-  <img src="https://img.shields.io/badge/shell-bash-000000?style=flat-square&logo=gnu-bash&logoColor=00FF41&labelColor=000000" alt="Shell">
-  <img src="https://img.shields.io/badge/lang-python-000000?style=flat-square&logo=python&logoColor=00FF41&labelColor=000000" alt="Python">
-  <img src="https://img.shields.io/badge/lang-c%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00FF41&labelColor=000000" alt="C++">
-  <img src="https://img.shields.io/badge/lang-c%23-000000?style=flat-square&logo=csharp&logoColor=00FF41&labelColor=000000" alt="C#">
-  <br>
-  <img src="https://img.shields.io/badge/tool-git-000000?style=flat-square&logo=git&logoColor=00FF41&labelColor=000000" alt="Git">
-  <img src="https://img.shields.io/badge/tool-docker-000000?style=flat-square&logo=docker&logoColor=00FF41&labelColor=000000" alt="Docker">
-  <img src="https://img.shields.io/badge/tool-termux-000000?style=flat-square&logo=termux&logoColor=00FF41&labelColor=000000" alt="Termux">
-</p>
+<img src="https://img.shields.io/badge/os-arch_linux-000000?style=flat-square&logo=arch-linux&logoColor=00FF41&labelColor=000000" alt="Arch Linux"> <img src="https://img.shields.io/badge/os-endeavouros-000000?style=flat-square&logo=endeavouros&logoColor=00FF41&labelColor=000000" alt="EndeavourOS"> <img src="https://img.shields.io/badge/shell-bash-000000?style=flat-square&logo=gnu-bash&logoColor=00FF41&labelColor=000000" alt="Shell">
+<br>
+<img src="https://img.shields.io/badge/lang-python-000000?style=flat-square&logo=python&logoColor=00FF41&labelColor=000000" alt="Python"> <img src="https://img.shields.io/badge/lang-c%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00FF41&labelColor=000000" alt="C++"> <img src="https://img.shields.io/badge/lang-c%23-000000?style=flat-square&logo=csharp&logoColor=00FF41&labelColor=000000" alt="C#">
 
 ---
 
