@@ -1,23 +1,32 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" alt="Cyber Banner">
-</div>
+# 0xSecr
+**Cybersecurity Student & Linux Enthusiast**
 
-<h1 align="center">Hi! I'm 0xSecr 👋</h1>
+---
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=>_+Cybersecurity+Student;>_+Information+Security;>_+Arch+Linux+%26+EndeavourOS;>_+Python,+Bash,+API+Integration" alt="Typing SVG" />
-  </a>
+### 💡 About
+
+* 🎓 Currently studying **Information Security**.
+* 💻 Daily driving **EndeavourOS / Arch Linux** on ThinkPad.
+* 🔧 Passionate about system administration, network security, and scripting.
+* 🌱 Exploring advanced API integrations and automation.
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📊 Activity Telemetry
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xSecr&theme=tokyonight&show_icons=true&hide_border=true&title_color=00FF41" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSecr&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xSecr&theme=transparent&show_icons=true&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSecr&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e" alt="Top Languages" />
 </p>
 
-### 🐍 Contribution Grid
+### 📈 Contributions
 
 <p align="center">
   <picture>
