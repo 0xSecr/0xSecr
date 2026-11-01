@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/lang-c%23-000000?style=flat-square&logo=csharp&logoColor=00FF41&labelColor=000000" alt="C#">
 </p>
 
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xSecr/0xSecr/output/github-contribution-grid-snake-dark.svg">
